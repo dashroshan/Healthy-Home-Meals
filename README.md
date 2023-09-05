@@ -20,7 +20,7 @@
 | MongoDB      | Database                                  |
 | Tensorflow and CustomVision   | ML model to detect ingredients in picture |
 | SciKit Learn | ML model to find matching recipes         |
-| Azure | Hosting                |
+| Google Cloud | Hosting                |
 | Cloudflare   | CDN for static data                       |
 
 ## Setup process
