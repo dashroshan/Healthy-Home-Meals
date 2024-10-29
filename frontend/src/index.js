@@ -7,7 +7,7 @@ import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 
 // Api base url
 // window.APIROOT = "http://127.0.0.1:4950/";
-window.APIROOT = "https://healthy-home-meals-api.rdash.me/";
+window.APIROOT = "https://healthy-home-meals-api.dashr.tech/";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
